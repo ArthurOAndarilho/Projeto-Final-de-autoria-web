@@ -1,0 +1,14 @@
+header{
+    background-color: crimson;
+}
+header nav a{
+    background-color: rgba(100, 6, 252, 0.5);
+}
+header li{
+    padding: 7px;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
