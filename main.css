@@ -1,14 +1,32 @@
 header{
     background-color: crimson;
+    text-align: center;
 }
 header nav a{
     background-color: rgba(100, 6, 252, 0.5);
+}
+figure{
+    text-align: center;
 }
 header li{
     padding: 7px;
     display: inline-block;
 }
-a{
+header a{
     text-decoration: none;
     color: aliceblue;
+}
+section a{
+    color: greenyellow;
+}
+section{
+    background-color: rgb(0, 67, 255);
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+footer{
+    background-color: cadetblue;
+    text-align: center;
 }
